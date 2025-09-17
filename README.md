@@ -53,11 +53,12 @@ Custom ROM + Kernel NetHunter untuk perangkat **Realme C15 UI2 (RMX2180)** berba
 
 ### 🛠️ Cara Memperbaiki HID yang Gagal Setup
 
-1. Buka terminal dan jalankan:
+1. reset dulu usb function di usb arsenal
+2. Buka terminal dan jalankan:
    ```bash
    su -c rmdir /config/usb_gadget/g1/functions/hid*
    ```
-2. Buka **NetHunter App**  
+3. Buka **NetHunter App**  
    Masuk ke **USB Arsenal**  
    Pilih OS > Pilih HID > Disable ADB > Set USB Function > Done
 
