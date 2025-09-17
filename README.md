@@ -89,9 +89,21 @@ Custom ROM + Kernel NetHunter untuk perangkat **Realme C15 UI2 (RMX2180)** berba
 2. ```
    nano +210 /sbin/airmon-ng
    ```
-3. kalo belum ketemu pencet ctrl + w, cari text `yesorno`
+3. kalo belum ketemu, pencet ctrl + w, cari text `yesorno`
 4. hapus text `yesorno` sama `retcode=$?` Ke `retcode=1` trus save
 5. jalanin lagi wifitenya
+
+### 🔋 batre ngaco?, kalibrasi cik
+1. kalo batre sudah 100%, buka terminal
+2. ```
+   su -c batcal
+   ```
+   pilih antara:
+   `A` otomatis
+   `C` Langsung kalibrasi
+3. reboot
+
+   catatan: `charger harus tetep terhubung dengan hp selama proses kalibrasi sampai reboot, baru bisa dilepas`
 
 ### 📦 Daftar Modul Kernel Tambahan (Non-`.ko`)
 
