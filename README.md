@@ -3,6 +3,8 @@
 
 Custom ROM + Kernel NetHunter untuk perangkat **Realme C15 UI2 (RMX2180)** berbasis **Mediatek**, dirancang untuk mendukung berbagai fitur penetration testing dan perangkat eksternal.
 
+👉👉 [PREVIEW](https://github.com/Frostleaft07/Nethunter_C15/blob/main/kali.md)
+
 ### 🔧 Fitur Kernel NetHunter
 
 1. Kernel telah mendukung **NetHunter** secara penuh.
