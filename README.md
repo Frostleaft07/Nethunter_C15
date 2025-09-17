@@ -84,6 +84,14 @@ Custom ROM + Kernel NetHunter untuk perangkat **Realme C15 UI2 (RMX2180)** berba
    ```
    Contoh: `rmmod 8188eu`
 
+### 🛜 Untuk Benerin wifite yang stuck
+1. buka terminal
+2. ```
+   nano +210 /sbin/airmon-ng
+   ```
+3. kalo belum ketemu pencet ctrl + w, cari text `yesorno`
+4. hapus text `yesorno` sama `retcode=$?` Ke `retcode=1` trus save
+5. jalanin lagi wifitenya
 
 ### 📦 Daftar Modul Kernel Tambahan (Non-`.ko`)
 
