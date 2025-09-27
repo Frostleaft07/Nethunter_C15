@@ -5,7 +5,7 @@ Custom ROM + Kernel NetHunter untuk perangkat **Realme C15 UI2 (RMX2180)** berba
 
 👉👉 [PREVIEW](https://github.com/Frostleaft07/Nethunter_C15/blob/main/kali.md)
 
-### 🔧 Fitur Kernel NetHunter
+### 🔧 Fitur Kernel NetHunter **(test)**
 
 1. Kernel telah mendukung **NetHunter** secara penuh.
 2. Sudah terintegrasi dengan [**SukiSU v3.1.9**](https://github.com/SukiSU-Ultra/SukiSU-Ultra).
