@@ -105,7 +105,7 @@ Custom ROM + Kernel NetHunter untuk perangkat **Realme C15 UI2 (RMX2180)** berba
    `C` Langsung kalibrasi
 3. reboot
 
-   catatan: `charger harus tetep terhubung dengan hp selama proses kalibrasi sampai reboot, baru bisa dilepas`
+   catatan: `charger harus tetep terhubung dengan hp selama proses kalibrasi sampai reboot, baru bisa dilepas, Dan Kalai restart hp pastiin gak lagi posisi ngecharge`
 
 ### 📦 Daftar Modul Kernel Tambahan (Non-`.ko`)
 
